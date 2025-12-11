@@ -1,14 +1,19 @@
-### Hi there 👋
-#### Welcome to my GitHub
+## 👋 Hi, I'm Boris
+**Native Mobile Expert turned AI Engineer.**
 
-I am a software engineer, my main focus is on mobile technologies.
-<br>At the moment I am mostly focused on finding good ways to increase code reusability, robustness, and quality of large code bases through modularization and automation. I am also a lazy developer who loves finding ways to do more with less, and this is currently quite an interesting topic, especially with the growth of the number of devices we run our apps on.
-<br>Big fan of **Kotlin Multiplatform** and **Serverless**. In my opinion, both are great ways to move faster and increase developer engagement both on FE and BE.
+I drive technical innovation by fusing emerging tech with rock-solid engineering principles. My current obsession is **Agentic Workflows**—figuring out how to make AI reliable enough for production. Whether I'm fine-tuning a model, writing Terraform scripts, or polishing a Swift UI, my goal is the same: shipping high-quality, modern software.
 
-Feel free to check out my pinned projects.
+### ⚡️ The Arsenal
 
-- 🔭 I’m currently mostly working with [Swift](https://www.swift.org), [Flutter](https://flutter.dev) and [Kotlin](https://kotlinlang.org).
-- 🤖 playing around with AI and loving [Langchain](https://www.langchain.com).
-- 🌱 I’m currently learning [AWS CDK](https://aws.amazon.com/cdk/) and general best practices around serverless development
-- 📫 How to reach me: boris.raptor@gmail.com
-- ⚡ Hobbies: Love MTB and skiing
+| Domain | Technologies | Rating |
+| :--- | :--- | :--- |
+| ** Apple Native** | `Swift`, `Objective-C`, Apple Frameworks | ★★★★★ |
+| **🧠 AI & LLMs** | **Python**, LangChain, RAG, Fine-tuning, Agentic Systems | ★★★★ |
+| **Backend** | **TypeScript**, Node.js, C# (.NET Core), API Dev | ★★★★ |
+| **DevOps & Infra**| **CI/CD**, Docker, Docker Compose, Terraform | ★★★★★ |
+| **Cross-Platform**| React, Flutter | ★★★ |
+
+---
+
+### 💡 Core Focus
+I help organizations modernize their stack by finding pragmatic ways to use AI and automation to solve complex architectural challenges and improve overall software quality.

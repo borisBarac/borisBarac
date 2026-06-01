@@ -8,10 +8,10 @@ I drive technical innovation by fusing emerging tech with rock-solid engineering
 | Domain | Technologies | Rating |
 | :--- | :--- | :--- |
 | ** Apple Native** | `Swift`, `Objective-C`, Apple Frameworks | ★★★★★ |
-| **🧠 AI & LLMs** | **Python**, LangChain, RAG, Fine-tuning, Agentic Systems | ★★★★ |
+| **🧠 AI & LLMs** | **Python**, LangChain, RAG, Fine-tuning, Agentic Systems | ★★★★★ |
 | **Backend** | **TypeScript**, Node.js, C# (.NET Core), API Dev | ★★★★ |
-| **DevOps & Infra**| **CI/CD**, Docker, Docker Compose, Terraform | ★★★★★ |
-| **Cross-Platform**| React, Flutter | ★★★ |
+| **DevOps & Infra**| **CI/CD**, Docker, Docker Compose, Terraform | ★★★★ |
+| **Cross-Platform**| React, Flutter | ★★★★ |
 
 ---
 

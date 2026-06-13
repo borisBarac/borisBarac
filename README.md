@@ -1,19 +1,30 @@
-## 👋 Hi, I'm Boris
-**Native Mobile Expert turned AI Engineer.**
+## 👋 Boris Barac
+**Senior systems engineer — the bigger the problem, the better.**
 
-I drive technical innovation by fusing emerging tech with rock-solid engineering principles. My current obsession is **Agentic Workflows**—figuring out how to make AI reliable enough for production. Whether I'm fine-tuning a model, writing Terraform scripts, or polishing a Swift UI, my goal is the same: shipping high-quality, modern software.
+Ten years architecting and scaling platforms for millions of users — from modularising legacy monoliths to designing multi-agent AI systems. Leading squads of 5–8 engineers, owning it end-to-end, and taking it from messy to maintainable.
 
-### ⚡️ The Arsenal
+### ⚡️ What I build right now
+- **Production LLM serving** — vLLM on Cloud Run GPUs, OpenAI-compatible endpoints, full Terraform
+- **Fine-tuning pipelines** — LoRA on compact models, synthetic QA generation, orchestrated end-to-end with Metaflow
+- **Performance engineering** — Rust N-API addons that **3×** Node.js throughput; WASM when it fits
+- **Agentic tooling** — MCP servers, RAG + knowledge graphs, multi-agent orchestration
+- **Full-stack delivery** — Schema to pixel: REST/GraphQL APIs, strict data contracts, native & web clients
 
-| Domain | Technologies | Rating |
-| :--- | :--- | :--- |
-| ** Apple Native** | `Swift`, `Objective-C`, Apple Frameworks | ★★★★★ |
-| **🧠 AI & LLMs** | **Python**, LangChain, RAG, Fine-tuning, Agentic Systems | ★★★★★ |
-| **Backend** | **TypeScript**, Node.js, C# (.NET Core), API Dev | ★★★★ |
-| **DevOps & Infra**| **CI/CD**, Docker, Docker Compose, Terraform | ★★★★ |
-| **Cross-Platform**| React, Flutter | ★★★★ |
+### 💼 Selected work
+
+| Project | What I did |
+| :--- | :--- |
+| **Mission-critical pharma intelligence platform** | Modularised 40% of a legacy monolith via Strangler Fig, then delivered a greenfield v2 in under a year. Owned full-stack delivery (native / .NET). |
+| **Global live-streaming & OTT platforms** | Led squads delivering **sub-5s** live latency at **99.9%+ uptime**. Built a custom tvOS playback engine and Server-Driven UI, cutting feature launches from weeks to minutes. |
+| **Hyper-scale streaming app** | Served **millions of users** at **60fps** on low-end hardware by migrating a hybrid app to 100% native. Built a custom Gherkin→UI test framework on remote device farms. |
+
+### 🛠 Stack
+- **AI / ML:** Python, LangChain, RAG, Fine-tuning, Agentic Systems
+- **Full-stack:** TypeScript, Node, React, Flutter
+- **Infra / DevOps:** Docker, Terraform, CI/CD, AWS / GCP
+- **Performance:** Rust (N-API, WASM)
+- **Native mobile:** Swift, Objective-C
 
 ---
-
-### 💡 Core Focus
-I help organizations modernize their stack by finding pragmatic ways to use AI and automation to solve complex architectural challenges and improve overall software quality.
+Building something ambitious? Let's talk.
+Prague, CZ · boris.raptor@gmail.com · [LinkedIn](https://www.linkedin.com/in/boris-barac-563a4b69/) · [Blog](https://dev.to/boris9027)

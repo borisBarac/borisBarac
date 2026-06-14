@@ -10,12 +10,12 @@ Ten years architecting and scaling platforms for millions of users — from modu
 - **Agentic tooling** — MCP servers, RAG + knowledge graphs, multi-agent orchestration
 - **Full-stack delivery** — Schema to pixel: REST/GraphQL APIs, strict data contracts, native & web clients
 
-### 💼 Selected work
+### 💼 Past Selected work
 
 | Project | What I did |
 | :--- | :--- |
 | **Mission-critical pharma intelligence platform** | Modularised 40% of a legacy monolith via Strangler Fig, then delivered a greenfield v2 in under a year. Owned full-stack delivery (native / .NET). |
-| **Global live-streaming & OTT platforms** | Led squads delivering **sub-5s** live latency at **99.9%+ uptime**. Built a custom tvOS playback engine and Server-Driven UI, cutting feature launches from weeks to minutes. |
+| **Global live-streaming & OTT platforms** | Led squads delivering **sub-5s** live latency at **99.9%+ uptime**. Built a custom tvOS playback engine and Server-Driven UI, cutting new screen launches from weeks to minutes. |
 | **Hyper-scale streaming app** | Served **millions of users** at **60fps** on low-end hardware by migrating a hybrid app to 100% native. Built a custom Gherkin→UI test framework on remote device farms. |
 
 ### 🛠 Stack
@@ -24,6 +24,9 @@ Ten years architecting and scaling platforms for millions of users — from modu
 - **Infra / DevOps:** Docker, Terraform, CI/CD, AWS / GCP
 - **Performance:** Rust (N-API, WASM)
 - **Native mobile:** Swift, Objective-C
+
+### Open for new projects
+- Preference on FullStack roles
 
 ---
 Building something ambitious? Let's talk.
